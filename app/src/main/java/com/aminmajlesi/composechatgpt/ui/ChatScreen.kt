@@ -50,14 +50,14 @@ fun ChatScreenPreview() {
             model = ChatUiModel(
                 messages = listOf(
                     ChatUiModel.Message(
-                        "Hi Tree, How you doing?",
+                        "Hi Amin, How are you?",
                         ChatUiModel.Author("0", "Branch")
                     ),
                     ChatUiModel.Message(
-                        "Hi Branch, good. You?",
-                        ChatUiModel.Author("-1", "Tree"))
+                        "Hey, fine. And you?",
+                        ChatUiModel.Author("-1", "Amin"))
                 ),
-                addressee = ChatUiModel.Author("0", "Branch")
+                addressee = ChatUiModel.Author("0", "Alireza")
             ),
             onSendChatClickListener = {},
             modifier = Modifier

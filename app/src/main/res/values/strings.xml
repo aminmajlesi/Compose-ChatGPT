@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposeChatGPT</string>
+    <string name="cd_button_send">Send</string>
 </resources>

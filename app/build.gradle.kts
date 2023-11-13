@@ -68,4 +68,16 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
     implementation("com.android.volley:volley:1.2.1")
+
+
+
+
+    /////
+    // Stream Chat UI Components
+// implementation("io.getstream:stream-chat-android-ui-components:6.0.8")
+
+
+    implementation("androidx.constraintlayout:constraintlayout-compose:1.0.1")
+
+
 }
